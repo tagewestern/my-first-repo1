@@ -1,5 +1,5 @@
 # My First Repo
-This is my first repo.
+This is my first repo. Hello Thursday morning class!
 # Hello world!!!!!!!!!
 
 This is my push thing.
